@@ -1,0 +1,17 @@
+.conatiner {
+    display: flex;
+    list-style-type: none;
+    padding-left: 900px;
+
+
+}
+
+.Li {
+    align-items: center;
+    border: 2px solid gray;
+    padding: 10px 30px;
+}
+
+.Li:hover {
+    background: lightblue;
+}
